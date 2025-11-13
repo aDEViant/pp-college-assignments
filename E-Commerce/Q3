@@ -1,0 +1,26 @@
+What is Web 2.0? Explain the seven layers of network.
+
+Ans.
+Web 2.0 is considered to be the second generation of the World Wide Web. It was an improved version of the original World Wide Web that stressed on user-generated content, interaction, cooperation and social connection. It kind of provided a two-directional way of using internet to the users where they not only can just retrieve data but also produce and share them. Several features are there in Web 2.0 that includes social networking, bogging and content sharing. Users are now active participants in platforms like YouTube and Facebook where they like, share and comment and work online. Web 2.0 has transformed the internet into a cooperative and social environment opening possibilities of growth of online communities, digital marketing and e-commerce generally.
+
+The OSI which stands for Open Systems Interconnection has seven layers of network. They are -
+a. Physical Layer -
+This is the lowest level of OSI model which deals with the physical connection between computer components like wires and switches etc.
+
+b. Data Link Layer -
+The Data Link Layer is responsible for ensuring reliable data transmission between two directly connected nodes, error detection and correction. This layer combines Ethernet and MAC Address.
+
+c. Network Layer -
+The Network Layer manages the routing of data and its forwarding and makes sure that packets travel using many networks.
+
+d. Transport Layer -
+The Transport Layer checks the transmission of data with flow control and recovery by making use of TCP and UDP.
+
+e. Session Layer -
+This is responsible for managing sessions or program connections.
+
+f. Presentation Layer -
+This layer transforms information into a form that is read by both the sender and the receiver.
+
+g. Application Layer -
+This layer is the uppermost layer of OSI model that interacts with the customers and is capable of web browsing, file transferring and email services.
